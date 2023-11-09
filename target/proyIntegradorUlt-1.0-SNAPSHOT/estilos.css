@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;500&family=Shadows+Into+Light&display=swap');
+
+        #fondo{
+            background-color: #e6fcd9;
+            font-family:'Montserrat', sans-serif;
+        }
+        #icono{
+            width: 9%;
+            height: 9%;
+            
+        }
+
+        
+        #divTabla{
+            margin: 0 auto;
+            padding: 3%;
+            align-items: start;
+        }
+        #titulo{
+          color: #252525;
+          font-family:'Montserrat', sans-serif;
+          
+        }
+        #ingreso{
+            color:white;
+            background-color: #bfedbe;
+            text-decoration: none;
+            font-family:'Montserrat', sans-serif;
+            margin-bottom: 1%;
+            border: none;
+            padding: 0.5%;
+            
+        }
+        #ingreso:hover{
+            background-color: #cdf2d6;
+        }
+        #boton{
+            background-color: #97c4ad;
+            color: white;
+        }
+        #boton:hover{
+            background-color: #cdf2d6;
+        }
+        
+        #tabla{
+            background-color:  #cdf2d6;
+            margin: 0 auto;
+            width: 80%;
+            height: 40%;
+            margin-top: 1%;
+            font-family:'Montserrat', sans-serif;
+           
+        }
+        #divTitulo{
+            background-color : #97c4ad;
+            padding: 1%;
+            
+            text-align: center;
+            justify-content: start;
+            
+        }
+        #contenedor {
+            width: 100%;
+            align-items: center;
+            justify-content: center;
+            display: flex;
+            height: 100vh;
+            
+                
+        }
+        #divForm{
+            background-color: #cdf2d6;
+            padding: 8%;
+            text-align: center;
+            margin-top: 20%;
+            margin-bottom: 10%;
+            width: 70%;
+            
+        }
+        input[type="text"]{
+            width: 70%;
+        }

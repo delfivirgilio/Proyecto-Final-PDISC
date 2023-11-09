@@ -1,0 +1,5 @@
+dao\StockDAOimpl.class
+util\DBConnection.class
+controller\stockSERVLET.class
+dao\StockDAO.class
+modelo\Stock.class
