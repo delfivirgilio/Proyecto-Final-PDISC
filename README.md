@@ -4,7 +4,7 @@
 <b>Repositorio en el cual subiré los archivos del proyecto de la materia Proyecto, Diseño e Implementación de Sistemas Computacionales:computer:	</b></br>
 
 :construction: Proyecto en construcción :construction:</br>
-:small_orange_diamond:<b>Materia:</b> Proyecto, Diseño e Implementación de Sistemas ComputacionalesBases de datos</br>
+:small_orange_diamond:<b>Materia:</b> Proyecto, Diseño e Implementación de Sistemas Computacionales</br>
 :small_orange_diamond:<b>Profesor:</b> Cersosimo, Vicente</br>
 :small_orange_diamond:<b>Alumna:</b> Virgilio Delfina</br>
 
